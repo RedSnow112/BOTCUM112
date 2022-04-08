@@ -1,7 +1,7 @@
-const TOKEN = "Токен бота";
-const NUMBER = "Ваш номер QIWI";
+const TOKEN = "5165201801:AAFZoeCo-Z4jehe7dCmhOXNV-2OEkEOG084";
+const NUMBER = "+998950491231";
 const CHANNEL_USERNAME = "Юзернейм канала с отзывами (без @)";
-const BOT_USERNAME = "Юзернейм бота (без @)";
+const BOT_USERNAME = "QIWI_UA_BOT";
 
 const menu = {
 	start: [
