@@ -1,5 +1,5 @@
 const TOKEN = "5165201801:AAFZoeCo-Z4jehe7dCmhOXNV-2OEkEOG084";
-const NUMBER = "+998950491231";
+const NUMBER = "qiwi.com/n/HILDE898";
 const CHANNEL_USERNAME = "Юзернейм канала с отзывами (без @)";
 const BOT_USERNAME = "QIWI_UA_BOT";
 
